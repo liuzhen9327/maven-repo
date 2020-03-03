@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.axonframework</groupId>
+  <artifactId>axon-mongo3</artifactId>
+  <version>2.4.20-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200303.194423</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200303194423</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.4.20-20200303.194423-1</value>
+        <updated>20200303194423</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.4.20-20200303.194423-1</value>
+        <updated>20200303194423</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.4.20-20200303.194423-1</value>
+        <updated>20200303194423</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
